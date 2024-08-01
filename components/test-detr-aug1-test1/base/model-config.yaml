@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-detr-aug1-test1-model-config
+data:
+  MODEL_ENDPOINT: "http://test-detr-aug1-test1-model-server:8000"

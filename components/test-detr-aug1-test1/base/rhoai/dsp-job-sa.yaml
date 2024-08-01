@@ -1,0 +1,4 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: test-detr-aug1-test1-dsp-job
